@@ -1,1 +1,0 @@
-# Xoro-Browser-Android
